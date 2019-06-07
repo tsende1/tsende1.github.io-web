@@ -1,0 +1,48 @@
+body {
+	background-image: url(" https://tjbservicesllc.com/wp-content/uploads/parser/mac-desktop-backgrounds-tumblr-1.jpg");
+	height: 100%;
+	background-repeat: no-repeat;
+	font-family: 'Dancing Script', cursive;
+	margin:2%;
+}
+.Box-1{
+	background-color: white;
+	width: 300px; 
+	margin:auto;
+	border-top:5px  black solid ;
+	border-right:5px black solid ;
+	border-bottom:5px black solid ;
+	border-left:5px black solid ;
+
+	padding-left: 10px;
+	
+}
+
+.box2{
+	background-color: white;
+	width: 200px; 
+	margin:auto;
+	margin-bottom: 15px;
+
+	
+}
+.form label{
+	display:block;
+	padding-bottom: -25px;
+
+
+}
+.Sign {
+	text-align: center;
+
+	margin-bottom: -50px;	
+}
+.form input{
+	width:100%
+	padding:8px;
+}
+.in{
+	width:100%
+	padding:8px;
+}
+}

@@ -1,0 +1,15 @@
+body{
+	background-image: url("https://tjbservicesllc.com/wp-content/uploads/parser/mac-desktop-backgrounds-tumblr-1.jpg");
+
+}
+
+.box1{
+	background-color: white;
+	width:50%;
+
+
+	border-top:5px  black solid ;
+	border-right:5px black solid ;
+	border-bottom:5px black solid ;
+	border-left:5px black solid ;
+}
